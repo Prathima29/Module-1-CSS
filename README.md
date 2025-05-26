@@ -64,13 +64,18 @@ Google Fonts
 Responsive Web Design (RWD)
 Flexbox & Box Model
 Semantic Markup
+
 🚀 Getting Started
 Clone or download this repository.https://github.com/Prathima29/Module-1-CSS.git
 Open index.html in your browser.
 Ensure the background image community-bg.jpg is in the same folder.
+
+
 🙌 Author
 Name: Prathima29 Project: HTML5/CSS3 Practical – Community Event Portal
 Purpose: Educational / College Project
+
+
 
 📜 License
 This project is open-source and free to use for educational purposes.
